@@ -17,11 +17,11 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
-key: MannorCOLT2012
+id: MannorCOLT2012
 abstract: 
 origpdf: 
 pdf: "./MannorCOLT2012/MannorCOLT2012.pdf"
-editors:
+editor:
 - given: Shie
   family: Mannor
 - given: Nathan

@@ -10,13 +10,14 @@ abstract: 'Motivated by social balance theory, we develop a theory of link class
   networks.'
 pdf: "./cesa-bianchi12/cesa-bianchi12.pdf"
 layout: inproceedings
-key: cesa-bianchi12
+id: cesa-bianchi12
 month: 0
 firstpage: 34
 lastpage: 34
+page: 34-34
 origpdf: http://jmlr.org/proceedings/papers/v23/cesa-bianchi12/cesa-bianchi12.pdf
 sections: 
-authors:
+author:
 - given: NicolÃ²
   family: Cesa-Bianchi
 - given: Claudio
@@ -25,4 +26,6 @@ authors:
   family: Vitale
 - given: Giovanni
   family: Zappella
+date: '2012-06-16 00:00:34'
+publisher: PMLR
 ---

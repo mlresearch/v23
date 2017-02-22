@@ -9,13 +9,14 @@ abstract: We prove a new structural lemma for partial Boolean functions \emph{f}
   log \emph{n}-term DNF and decision trees.
 pdf: "./hellerstein12/hellerstein12.pdf"
 layout: inproceedings
-key: hellerstein12
+id: hellerstein12
 month: 0
 firstpage: 31
 lastpage: 31
+page: 31-31
 origpdf: http://jmlr.org/proceedings/papers/v23/hellerstein12/hellerstein12.pdf
 sections: 
-authors:
+author:
 - given: Lisa
   family: Hellerstein
 - given: Devorah
@@ -24,4 +25,6 @@ authors:
   family: Sellie
 - given: Rocco
   family: Servedio
+date: '2012-06-16 00:00:31'
+publisher: PMLR
 ---

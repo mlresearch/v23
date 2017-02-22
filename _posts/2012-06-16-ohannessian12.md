@@ -18,15 +18,18 @@ abstract: This paper studies the problem of estimating the probability of symbol
   we set forth.
 pdf: "./ohannessian12/ohannessian12.pdf"
 layout: inproceedings
-key: ohannessian12
+id: ohannessian12
 month: 0
 firstpage: 21
 lastpage: 21
+page: 21-21
 origpdf: http://jmlr.org/proceedings/papers/v23/ohannessian12/ohannessian12.pdf
 sections: 
-authors:
+author:
 - given: Mesrob I.
   family: Ohannessian
 - given: Munther A.
   family: Dahleh
+date: '2012-06-16 00:00:21'
+publisher: PMLR
 ---

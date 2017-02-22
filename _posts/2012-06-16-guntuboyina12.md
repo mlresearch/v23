@@ -13,15 +13,18 @@ abstract: In this paper we study the covering numbers of the space of convex and
   function estimation problems.
 pdf: "./guntuboyina12/guntuboyina12.pdf"
 layout: inproceedings
-key: guntuboyina12
+id: guntuboyina12
 month: 0
 firstpage: 12
 lastpage: 12
+page: 12-12
 origpdf: http://jmlr.org/proceedings/papers/v23/guntuboyina12/guntuboyina12.pdf
 sections: 
-authors:
+author:
 - given: Adityanand
   family: Guntuboyina
 - given: Bodhisattva
   family: Sen
+date: '2012-06-16 00:00:12'
+publisher: PMLR
 ---
