@@ -16,7 +16,7 @@ abstract: This paper studies the problem of estimating the probability of symbol
   heuristic algorithms. This also establishes a discrete parallel to extreme value
   theory, and many of the techniques therein can be adapted to the framework that
   we set forth.
-pdf: http://jmlr.org/proceedings/papers/v23/ohannessian12/ohannessian12.pdf
+pdf: http://proceedings.mlr.press/v23/ohannessian12/ohannessian12.pdf
 layout: inproceedings
 id: ohannessian12
 month: 0
@@ -29,7 +29,6 @@ author:
   family: Ohannessian
 - given: Munther A.
   family: Dahleh
-reponame: v23
 date: 2012-06-16
 address: Edinburgh, Scotland
 publisher: PMLR

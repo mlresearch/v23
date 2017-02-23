@@ -7,7 +7,7 @@ abstract: We prove a new structural lemma for partial Boolean functions \emphf, 
   is optimal. We also give a new result on certificates for DNF-size, a simple algorithm
   for properly PAC-learning DNF, and new results on EQ-learning log \emphn-term DNF
   and decision trees.
-pdf: http://jmlr.org/proceedings/papers/v23/hellerstein12/hellerstein12.pdf
+pdf: http://proceedings.mlr.press/v23/hellerstein12/hellerstein12.pdf
 layout: inproceedings
 id: hellerstein12
 month: 0
@@ -24,7 +24,6 @@ author:
   family: Sellie
 - given: Rocco
   family: Servedio
-reponame: v23
 date: 2012-06-16
 address: Edinburgh, Scotland
 publisher: PMLR
