@@ -10,20 +10,20 @@ abstract: In this paper we study the covering numbers of the space of convex and
   proofs of some known results. Our results have direct implications in the study
   of rates of convergence of empirical minimization procedures as well as optimal
   convergence rates in the numerous convexity constrained function estimation problems.
-pdf: http://proceedings.pmlr.press/guntuboyina12/guntuboyina12.pdf
+pdf: http://jmlr.org/proceedings/papers/v23/guntuboyina12/guntuboyina12.pdf
 layout: inproceedings
 id: guntuboyina12
 month: 0
 firstpage: 12
 lastpage: 12
 page: 12-12
-origpdf: http://jmlr.org/proceedings/papers/v23/guntuboyina12/guntuboyina12.pdf
 sections: 
 author:
 - given: Adityanand
   family: Guntuboyina
 - given: Bodhisattva
   family: Sen
+reponame: v23
 date: 2012-06-16
 address: Edinburgh, Scotland
 publisher: PMLR

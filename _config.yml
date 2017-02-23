@@ -18,8 +18,6 @@ sections:
 layout: proceedings
 id: MannorCOLT2012
 abstract: ''
-origpdf: 
-pdf: http://proceedings.pmlr.press/MannorCOLT2012/MannorCOLT2012.pdf
 editor:
 - given: Shie
   family: Mannor
