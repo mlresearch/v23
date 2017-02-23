@@ -3,7 +3,6 @@
 ---
 booktitle: Proceedings of the 25th Annual Conference on Learning Theory
 publisher: JMLR Workshop and Conference Proceedings
-address: Edinburgh, Scotland
 month: 0
 volume: 23
 year: '2012'
@@ -18,9 +17,9 @@ sections:
   title: Accepted Papers
 layout: proceedings
 id: MannorCOLT2012
-abstract: 
+abstract: ''
 origpdf: 
-pdf: "./MannorCOLT2012/MannorCOLT2012.pdf"
+pdf: http://proceedings.pmlr.press/MannorCOLT2012/MannorCOLT2012.pdf
 editor:
 - given: Shie
   family: Mannor
@@ -29,7 +28,6 @@ editor:
 - given: Robert C.
   family: Williamson
 title: Proceedings of the 25th Annual Conference on Learning Theory
-conference: Proceedings of the 25th Annual Conference on Learning Theory
 email: ''
 description: Proceedings of the 25th Annual Conference on Learning Theory, Edinburgh,
   Scotland
@@ -39,8 +37,17 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: v23
+conference:
+  name: 
+  url: 
+  location: Edinburgh, Scotland
+  dates:
+  - 2012-06-25
+  - 2012-06-26
+  - 2012-06-27
 analytics:
   google:
     tracking_id: UA-92432422-1

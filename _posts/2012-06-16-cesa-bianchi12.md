@@ -8,7 +8,7 @@ abstract: 'Motivated by social balance theory, we develop a theory of link class
   based on covering the input graph with small circuits. These are the first active
   algorithms for link classification with mistake bounds that hold for arbitrary signed
   networks.'
-pdf: "./cesa-bianchi12/cesa-bianchi12.pdf"
+pdf: http://proceedings.pmlr.press/cesa-bianchi12/cesa-bianchi12.pdf
 layout: inproceedings
 id: cesa-bianchi12
 month: 0
@@ -26,6 +26,15 @@ author:
   family: Vitale
 - given: Giovanni
   family: Zappella
-date: '2012-06-16 00:00:34'
+date: 2012-06-16
 publisher: PMLR
+container-title: Proceedings of the 25th Annual Conference on Learning Theory
+volume: '23'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2012
+  - 6
+  - 16
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

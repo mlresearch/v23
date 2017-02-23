@@ -6,7 +6,7 @@ abstract: This paper studies the problem of estimating the probability of symbol
   consistency of estimators, defined as the ratio of the estimate to the true quantity
   converging to one. We first show that the classical Good-Turing estimator is not
   universally consistent in this sense, despite enjoying favorable additive properties.
-  We then use Karamata's theory of regular variation to prove that regularly varying
+  We then use Karamata’s theory of regular variation to prove that regularly varying
   heavy tails are sufficient for consistency. At the core of this result is a multiplicative
   concentration that we establish both by extending the McAllester-Ortiz additive
   concentration for the missing mass to all rare probabilities and by exploiting regular
@@ -16,7 +16,7 @@ abstract: This paper studies the problem of estimating the probability of symbol
   heuristic algorithms. This also establishes a discrete parallel to extreme value
   theory, and many of the techniques therein can be adapted to the framework that
   we set forth.
-pdf: "./ohannessian12/ohannessian12.pdf"
+pdf: http://proceedings.pmlr.press/ohannessian12/ohannessian12.pdf
 layout: inproceedings
 id: ohannessian12
 month: 0
@@ -30,6 +30,15 @@ author:
   family: Ohannessian
 - given: Munther A.
   family: Dahleh
-date: '2012-06-16 00:00:21'
+date: 2012-06-16
 publisher: PMLR
+container-title: Proceedings of the 25th Annual Conference on Learning Theory
+volume: '23'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2012
+  - 6
+  - 16
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
