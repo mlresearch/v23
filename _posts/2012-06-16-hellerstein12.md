@@ -9,6 +9,7 @@ abstract: We prove a new structural lemma for partial Boolean functions \emphf, 
   and decision trees.
 pdf: http://proceedings.mlr.press/v23/hellerstein12/hellerstein12.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: hellerstein12
 month: 0
 firstpage: 31

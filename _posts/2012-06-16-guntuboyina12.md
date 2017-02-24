@@ -12,6 +12,7 @@ abstract: In this paper we study the covering numbers of the space of convex and
   convergence rates in the numerous convexity constrained function estimation problems.
 pdf: http://proceedings.mlr.press/v23/guntuboyina12/guntuboyina12.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: guntuboyina12
 month: 0
 firstpage: 12

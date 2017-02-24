@@ -10,6 +10,7 @@ abstract: 'Motivated by social balance theory, we develop a theory of link class
   networks.'
 pdf: http://proceedings.mlr.press/v23/cesa-bianchi12/cesa-bianchi12.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: cesa-bianchi12
 month: 0
 firstpage: 34

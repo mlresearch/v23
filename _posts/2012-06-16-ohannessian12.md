@@ -18,6 +18,7 @@ abstract: This paper studies the problem of estimating the probability of symbol
   we set forth.
 pdf: http://proceedings.mlr.press/v23/ohannessian12/ohannessian12.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: ohannessian12
 month: 0
 firstpage: 21
