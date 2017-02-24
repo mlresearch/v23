@@ -13,9 +13,9 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: cesa-bianchi12
 month: 0
-firstpage: 34
-lastpage: 34
-page: 34-34
+firstpage: '34.1'
+lastpage: '34.20'
+page: 34.1-34.20
 sections: 
 author:
 - given: NicolÃ²

@@ -21,9 +21,9 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: ohannessian12
 month: 0
-firstpage: 21
-lastpage: 21
-page: 21-21
+firstpage: '21.1'
+lastpage: '21.24'
+page: 21.1-21.24
 sections: 
 author:
 - given: Mesrob I.

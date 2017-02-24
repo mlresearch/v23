@@ -15,9 +15,9 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: guntuboyina12
 month: 0
-firstpage: 12
-lastpage: 12
-page: 12-12
+firstpage: '12.1'
+lastpage: '12.13'
+page: 12.1-12.13
 sections: 
 author:
 - given: Adityanand

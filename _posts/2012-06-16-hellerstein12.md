@@ -12,9 +12,9 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: hellerstein12
 month: 0
-firstpage: 31
-lastpage: 31
-page: 31-31
+firstpage: '31.1'
+lastpage: '31.18'
+page: 31.1-31.18
 sections: 
 author:
 - given: Lisa
