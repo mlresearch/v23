@@ -24,10 +24,20 @@ editor:
   family: Srebro
 - given: Robert C.
   family: Williamson
-title: Proceedings of the 25th Annual Conference on Learning Theory
-email: ''
-description: Proceedings of the 25th Annual Conference on Learning Theory, Edinburgh,
-  Scotland
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 25th Annual Conference on Learning Theory
+    Held in Edinburgh, Scotland on 25-27 June 2012
+
+  Published as Volume 23 by the Proceedings of Machine Learning Research on 16 June 2012.
+
+  Volume Edited by:
+    Shie Mannor
+    Nathan Srebro
+    Robert C. Williamson
+
+  Series Editors:
+    Neil D. Lawrence
 url: http://proceedings.mlr.press
 baseurl: "/v23"
 twitter_username: mlresearch
@@ -37,6 +47,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v23
+email: ''
 conference:
   name: Conference on Learning Theory
   url: 
