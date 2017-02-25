@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: guntuboyina12
 month: 0
+tex_title: L1 Covering Numbers for Uniformly Bounded Convex Functions
 firstpage: '12.1'
 lastpage: '12.13'
 page: 12.1-12.13

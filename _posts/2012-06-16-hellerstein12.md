@@ -12,6 +12,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: hellerstein12
 month: 0
+tex_title: Tight Bounds on Proper Equivalence Query Learning of DNF
 firstpage: '31.1'
 lastpage: '31.18'
 page: 31.1-31.18

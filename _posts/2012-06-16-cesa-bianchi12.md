@@ -13,6 +13,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: cesa-bianchi12
 month: 0
+tex_title: A Correlation Clustering Approach to Link Classification in Signed Networks
 firstpage: '34.1'
 lastpage: '34.20'
 page: 34.1-34.20
