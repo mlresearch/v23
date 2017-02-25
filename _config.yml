@@ -39,6 +39,7 @@ description: |
 
   Series Editors:
     Neil D. Lawrence
+date_str: 25--27 Jun
 url: http://proceedings.mlr.press
 baseurl: "/v23"
 twitter_username: mlresearch
@@ -48,6 +49,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v23
+bibtex_copy: true
 email: ''
 conference:
   name: Conference on Learning Theory
