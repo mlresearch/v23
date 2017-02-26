@@ -25,7 +25,8 @@ tex_title: Rare Probability Estimation under Regularly Varying Heavy Tails
 firstpage: '21.1'
 lastpage: '21.24'
 page: 21.1-21.24
-sections: 
+order: 21
+cycles: false
 author:
 - given: Mesrob I.
   family: Ohannessian

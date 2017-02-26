@@ -17,7 +17,8 @@ tex_title: A Correlation Clustering Approach to Link Classification in Signed Ne
 firstpage: '34.1'
 lastpage: '34.20'
 page: 34.1-34.20
-sections: 
+order: 34
+cycles: false
 author:
 - given: NicolÃ²
   family: Cesa-Bianchi

@@ -19,7 +19,8 @@ tex_title: L1 Covering Numbers for Uniformly Bounded Convex Functions
 firstpage: '12.1'
 lastpage: '12.13'
 page: 12.1-12.13
-sections: 
+order: 12
+cycles: false
 author:
 - given: Adityanand
   family: Guntuboyina

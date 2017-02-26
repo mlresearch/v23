@@ -16,7 +16,8 @@ tex_title: Tight Bounds on Proper Equivalence Query Learning of DNF
 firstpage: '31.1'
 lastpage: '31.18'
 page: 31.1-31.18
-sections: 
+order: 31
+cycles: false
 author:
 - given: Lisa
   family: Hellerstein
