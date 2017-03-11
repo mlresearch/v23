@@ -64,6 +64,7 @@ conference:
   - 2012-06-25
   - 2012-06-26
   - 2012-06-27
+  number: 25
 analytics:
   google:
     tracking_id: UA-92432422-1
