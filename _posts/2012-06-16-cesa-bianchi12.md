@@ -20,7 +20,7 @@ page: 34.1-34.20
 order: 34
 cycles: false
 author:
-- given: NicolÃ²
+- given: Nicoló
   family: Cesa-Bianchi
 - given: Claudio
   family: Gentile
